@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "aYIHkaHFO+MjqiIfCIiVBlElfhHw1HaWInlz5zoiFU+gO2KarF93C+aELt8tJ2F2/EmKRoadURkIrm1C2nyLMQ==",
+  "success": true,
+  "projectFilePath": "/Users/JoshTillinghast/Desktop/CretaceousPark.Solution/CretaceousPark/CretaceousPark.csproj",
+  "expectedPackageFiles": [
+    "/Users/JoshTillinghast/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/JoshTillinghast/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/JoshTillinghast/.nuget/packages/swashbuckle.aspnetcore/5.6.3/swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "/Users/JoshTillinghast/.nuget/packages/swashbuckle.aspnetcore.swagger/5.6.3/swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "/Users/JoshTillinghast/.nuget/packages/swashbuckle.aspnetcore.swaggergen/5.6.3/swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "/Users/JoshTillinghast/.nuget/packages/swashbuckle.aspnetcore.swaggerui/5.6.3/swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
